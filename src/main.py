@@ -1042,7 +1042,7 @@ def analyze_with_gemini(
     search_errors: list[str],
     credits_used: int,
 ) -> MorningBrief:
-    if len(candidates) < 5:
+    if len(candidates) < 3:
         raise RuntimeError(f"通过来源、日期和相关性校验的候选不足：仅 {len(candidates)} 条")
 
     client = genai.Client(api_key=api_key)
