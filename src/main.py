@@ -216,7 +216,6 @@ def run_searches(api_key: str) -> tuple[list[dict], list[str], int]:
                 include_images=False,
                 include_favicon=False,
                 include_usage=True,
-                safe_search=True,
             )
             usage = response.get("usage") or {}
             credits_used += int(usage.get("credits") or 1)
