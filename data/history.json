@@ -328,5 +328,17 @@
     "title": "学术界基于经典UCD提出以用户为中心的可解释AI（UCXAISD）系统设计框架",
     "content_type": "经典方法",
     "selected_date": "2026-08-01"
+  },
+  {
+    "url": "https://economics.mit.edu/sites/default/files/2026-02/Estimating%20the%20Value%20of%20Evidence-Based%20Decision%20Making%20Feb%202026.pdf",
+    "title": "量化循证决策价值：MIT等机构提出优化企业实验设计新框架",
+    "content_type": "近期洞察",
+    "selected_date": "2026-08-02"
+  },
+  {
+    "url": "https://link.springer.com/rwe/10.1007/978-3-030-81159-4_3",
+    "title": "系统工程视角下的参与式设计与复杂系统设计理论框架",
+    "content_type": "经典方法",
+    "selected_date": "2026-08-02"
   }
 ]
