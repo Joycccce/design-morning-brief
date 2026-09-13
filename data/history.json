@@ -868,5 +868,17 @@
     "title": "劳伦斯利弗莫尔实验室向NASA展示先进制造与设计优化技术",
     "content_type": "今日新讯",
     "selected_date": "2026-09-12"
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2095263526001135",
+    "title": "基于多阶段双DQN框架的自动化平面图设计：从拓扑图合成到矩形布局生成",
+    "content_type": "近期洞察",
+    "selected_date": "2026-09-13"
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2095263526000014",
+    "title": "住宅设计中的行为研究现状：文献综述与未来研究方向",
+    "content_type": "近期洞察",
+    "selected_date": "2026-09-13"
   }
 ]
